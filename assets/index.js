@@ -25,13 +25,7 @@ if (main[0] === main_res[0] && main[1] === main_res[1]) {
     alert('Please check your information');
 }
 
-// for (var i of main) {
-//     if (i.email === res_email && i.password === res_password) {
-//         console.log('You have successfully entered the system');
-//     }else{
-//         alert('Please check your information');
-//     }
-// }
+
 
 
 
